@@ -62,7 +62,7 @@ Below is the list of topics covered in the course along with checkboxes to track
 
 ## Goals
 
-My goal is to complete this course and develop a solid understanding of Python programming. I will be applying the concepts learned in practical projects and documenting my code and learnings in this repository. Also kudos to my mentors: @dokibyte and @[windweb](https://www.github.com/windweb/)
+My goal is to complete this course and develop a solid understanding of Python programming. I will be applying the concepts learned in practical projects and documenting my code and learnings in this repository. Also kudos to my mentors: @[dokibyte](https://github.com/dokibyte) and @[windweb](https://www.github.com/windweb/)
 
 ## Acknowledgments
 
