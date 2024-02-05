@@ -1,0 +1,5 @@
+print("Vanya Bochkov")
+print('o----')
+print(' ||||')
+print('*' * 15)
+print()
