@@ -12,19 +12,19 @@ Below is the list of topics covered in the course along with checkboxes to track
 
 - [x] Introduction
 - [x] Installing Python 3
-- [x] [001_your_first_python_program.py](001_your_first_python_program.py)Your First Python Program
+- [x] (001_your_first_python_program.py)Your First Python Program
 - [x] How Python Code Gets Executed
-- [ ] How Long It Takes To Learn Python
-- [ ] Variables
-- [ ] Receiving Input
-- [ ] Python Cheat Sheet
-- [ ] Type Conversion
-- [ ] Strings
-- [ ] Formatted Strings
-- [ ] String Methods
-- [ ] Arithmetic Operations
-- [ ] Operator Precedence
-- [ ] Math Functions
+- [x] How Long It Takes To Learn Python
+- [x] Variables [002_variables.py](002_variables.py) [002_variables_challenge.py](002_variables_challenge.py)
+- [x] Receiving Input [003_receiving_input.py](003_receiving_input.py)
+- [x] Python Cheat Sheet [003_receiving_input_challenge.py](003_receiving_input_challenge.py)
+- [x] Type Conversion [004_type_conversation.py](004_type_conversation.py) [004_type_conversation_challenge.py](004_type_conversation_challenge.py)
+- [x] Strings [005_strings.py](005_strings.py)
+- [x] Formatted Strings [006_formatted_strings.py](006_formatted_strings.py)
+- [x] String Methods [007_string_methods.py](007_string_methods.py)
+- [x] Arithmetic Operations [008_arithmetic_operations.py](008_arithmetic_operations.py)
+- [x] Operator Precedence [009_operator_precedence.py](009_operator_precedence.py)
+- [x] Math Functions [010_math_functions.py](010_math_functions.py)
 - [ ] If Statements
 - [ ] Logical Operators
 - [ ] Comparison Operators
