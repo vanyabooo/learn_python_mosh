@@ -10,21 +10,19 @@ The course includes a comprehensive guide to Python, starting with the installat
 
 Below is the list of topics covered in the course along with checkboxes to track my completion status:
 
-- [x] Introduction
+- [x] My notes...  [000_my_notes.py](000_my_notes.py)
 - [x] Installing Python 3
-- [x] (001_your_first_python_program.py)Your First Python Program
-- [x] How Python Code Gets Executed
-- [x] How Long It Takes To Learn Python
-- [x] Variables [002_variables.py](002_variables.py) [002_variables_challenge.py](002_variables_challenge.py)
-- [x] Receiving Input [003_receiving_input.py](003_receiving_input.py)
-- [x] Python Cheat Sheet [003_receiving_input_challenge.py](003_receiving_input_challenge.py)
-- [x] Type Conversion [004_type_conversation.py](004_type_conversation.py) [004_type_conversation_challenge.py](004_type_conversation_challenge.py)
-- [x] Strings [005_strings.py](005_strings.py)
-- [x] Formatted Strings [006_formatted_strings.py](006_formatted_strings.py)
-- [x] String Methods [007_string_methods.py](007_string_methods.py)
-- [x] Arithmetic Operations [008_arithmetic_operations.py](008_arithmetic_operations.py)
-- [x] Operator Precedence [009_operator_precedence.py](009_operator_precedence.py)
-- [x] Math Functions [010_math_functions.py](010_math_functions.py)
+- [x] Your First Python Program [001_your_first_python_program.py](001_your_first_python_program.py)
+- [x] How Python Code Gets Executed [002_how_python_code_gets_executed.py](002_how_python_code_gets_executed.py)
+- [x] Variables [003_variables.py](003_variables.py) [003_variables_quiz.py](003_variables_quiz.py) [003_variables_extra.py](003_variables_extra.py)
+- [x] Receiving Input [004_receiving_input.py](004_receiving_input.py) [004_receiving_input_quiz.py](004_receiving_input_quiz.py)
+- [x] Type Conversion [005_type_conversion.py](005_type_conversion.py) [005_type_conversion_quiz.py](005_type_conversion_quiz.py)
+- [x] Strings [006_strings.py](006_strings.py) 
+- [x] Formatted Strings [007_formatted_strings.py](007_formatted_strings.py)
+- [x] String Methods [008_string_methods.py](008_string_methods.py)
+- [x] Arithmetic Operations 
+- [x] Operator Precedence 
+- [x] Math Functions 
 - [ ] If Statements
 - [ ] Logical Operators
 - [ ] Comparison Operators

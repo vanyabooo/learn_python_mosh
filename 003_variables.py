@@ -5,7 +5,7 @@ price = 10
 rating = 4.9
 
 # string (str) - любое что в ковычках и в двух и в одной и в трех
-name = 'Vanya'
+name = "Vanya"
 
 # boolean (bool) обязательно с большой буквы True/False
 is_published = False
