@@ -1,4 +1,4 @@
-'''
+"""
 Спросить у пользовательля кредит скор
 Вводишь кредитный скор
 Если кр. скор 650 или меньше - банк дает ипотека 30%
@@ -7,22 +7,19 @@
 Стоимость недвижки 1М
 Но стоимость недвижимости меняется в любой момент
 Выведите сколько будет стоить недвижимость учитывая кредит скор
-'''
+"""
 
-
-print("Price of a house is $1M")
+print("The price of our house is 1.000.000$")
 price = 1000000.0
 percent = 0.0
-score = float(input("Please enter your credit score "))
+score = float(input("Please enter your credit score here: "))
 
 if score <= 650:
-    percent = .30
-elif 650 < score < 750:
-    percent = .20
-if 750 <= score:
-    percent = .10
+    percent = 0.30
+elif score < 750:
+    percent = 0.20
 else:
-    print("There's some problem here...")
+    percent = 0.10
 
-finished_price = price * percent + price
-print("Your final price is",finished_price)
+total_price = price * percent + price
+print(f"Your total price is ${total_price}")
