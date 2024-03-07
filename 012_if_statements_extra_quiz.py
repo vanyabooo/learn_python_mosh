@@ -30,7 +30,8 @@ while keep_playing:
 
     keep_playing = input("Would you like to try again? (yes/no)")
     if keep_playing == "yes":
+        tries = 6
         continue
     elif keep_playing == "no":
-        print("The game is over.")
+        print(f"The game is over. Your score was {score}.")
         break
